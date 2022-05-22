@@ -1,0 +1,2 @@
+[![Build status (Github Actions)](https://github.com/Juliactuary/Triangles.jlworkflows/CI/badge.svg)](https://github.com/Juliactuary/Triangles.jl/actions)
+[![codecov.io](https://github.com/Juliactuary/Triangles.jl/coverage.svg?branch=main)](https://github.com/Juliactuary/Triangles.jl?branch=main)
